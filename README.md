@@ -14,7 +14,9 @@
 - password: 'root'
 ### 2. Running the project:
   a. Open the project in VsCode
+
   b. Open the terminal
+  
   c. Run following commands:
 - $:npm install
 - $:cd client
