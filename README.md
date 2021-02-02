@@ -1,4 +1,4 @@
-# Vacations_326839818
+# Vacation-326839818
 
 ### 1. Creating a schema:
 
