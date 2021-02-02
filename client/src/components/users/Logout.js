@@ -26,7 +26,7 @@ class Logout extends Component {
                 </h1>
                 <h2 className='formStyle-text'>Hope you will come back soon !!!</h2>
                 <br /><br /><br />
-                <h4 className='formStyle-text'>Now you can <a href="/login">Sign Up</a> or <a href="/register">Register a new user</a></h4>          
+                <h4 className='formStyle-text'>Now you can <a href="/login">Sign In</a> or <a href="/register">Register a new user</a></h4>          
             </div>
          );
     }

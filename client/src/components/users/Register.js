@@ -61,7 +61,7 @@ class Register extends Component {
                     </div>}
                     {this.props.userRegistered && <div>
                         <h2 className='formStyle-text'>Thank You for registration!!!</h2>
-                        <h2 className='formStyle-text'>Now you can to <a href="/login">Sign Up</a></h2>
+                        <h2 className='formStyle-text'>Now you can to <a href="/login">Sign In</a></h2>
                     </div>}
                 </div>
             </div>
