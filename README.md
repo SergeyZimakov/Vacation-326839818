@@ -6,7 +6,7 @@
   
   b. Enter to mysqlScripts.sql file  
   
-  c. Copy all scripts from this file and run them in MySql Workbranch
+  c. Copy all scripts from this file and run them in MySql Workbrench
   
   d. Set MySql settings:
 - host: 'localhost',
