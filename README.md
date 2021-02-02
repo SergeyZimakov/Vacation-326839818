@@ -28,7 +28,7 @@
 - (or $:npm run dev for development mode)
     
 ### 3. Admin's user:
-- The project doesn`t include users. The first registered user will get the role of "Admin" and all follows users will get the role of "User".
+- The project doesn`t include users. The first registered user will get the role of "Admin" and all follow users will get the role of "User".
 
 ###  4. Images:
 The limits of uploaded images are:
